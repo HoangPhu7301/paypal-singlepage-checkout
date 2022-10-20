@@ -1,0 +1,14 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  background-color: gray;
+  display: grid;
+  place-items: center;
+
+}
+
+.wrapper{
+  background-color: lightblue;
+  padding: 8rem;
+  border-radius: 20px;
+}
